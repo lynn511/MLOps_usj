@@ -1,1 +1,1 @@
-print("lynn elmo")
+print("lynn elm")
